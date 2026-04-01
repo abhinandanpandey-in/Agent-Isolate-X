@@ -1,0 +1,22 @@
+# Python-specific ignore
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Data and Results
+# We ignore the raw payloads to keep the repo clean and prevent data leakage
+payloads.json
+
+# System/IDE specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Security
+.env
+*.log
