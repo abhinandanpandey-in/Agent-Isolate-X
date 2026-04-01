@@ -88,7 +88,3 @@ Testing conducted using `benchmark.py` against 75 distinct attack vectors, inclu
 ## 📜 Disclaimer
 
 This project is for **educational and research purposes only**. It demonstrates mitigations for specific classes of prompt injection. Security in LLMs is an evolving field; always use multiple layers of defense.
-
----
-
-**Author:** Pinank — [GitHub Profile](https://github.com/YOUR_USERNAME)
